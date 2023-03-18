@@ -63,6 +63,14 @@
       "email": "black@test.com",
       "phone": "0977107590",
       "subscription": "standard"
+    },
+    {
+      "name": "Vitaminka",
+      "surname": "Smyk",
+      "email": "vitaminka@gmail.com",
+      "phone": "0985272444",
+      "subscription": "premium",
+      "id": "ZQDmZiK"
     }
   ]
 }
