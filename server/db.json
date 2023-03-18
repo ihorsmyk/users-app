@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "surname": "Black",
+      "email": "black@test.com",
+      "phone": "0997907590",
+      "subscription": "no"
+    },
+    {
+      "id": "2",
+      "name": "Cassius",
+      "surname": "Kim",
+      "email": "kim@test.com",
+      "phone": "0937907599",
+      "subscription": "standard"
+    },
+    {
+      "id": "3",
+      "name": "Ryder",
+      "surname": "House",
+      "email": "house444@test.com",
+      "phone": "0997976590",
+      "subscription": "premium"
+    },
+    {
+      "id": "4",
+      "name": "Cooper",
+      "surname": "Le",
+      "email": "lecooper@test.com",
+      "phone": "0997907590",
+      "subscription": "no"
+    },
+    {
+      "id": "5",
+      "name": "Max",
+      "surname": "Proctor",
+      "email": "proctorm12@test.com",
+      "phone": "0998907590",
+      "subscription": "premium"
+    },
+    {
+      "id": "6",
+      "name": "Adam",
+      "surname": "Perry",
+      "email": "perry999@test.com",
+      "phone": "0997907110",
+      "subscription": "standard"
+    },
+    {
+      "id": "7",
+      "name": "Alyssa",
+      "surname": "Mercado",
+      "email": "amercado123@test.com",
+      "phone": "0997907590",
+      "subscription": "premium"
+    },
+    {
+      "id": "8",
+      "name": "Angelina",
+      "surname": "Vega",
+      "email": "black@test.com",
+      "phone": "0977107590",
+      "subscription": "standard"
+    }
+  ]
+}
